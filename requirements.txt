@@ -1,0 +1,5 @@
+streamlit==1.31.0
+pandas==2.0.3
+plotly==5.18.0
+pillow==10.1.0
+uuid==1.30
